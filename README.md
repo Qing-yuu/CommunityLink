@@ -25,3 +25,7 @@ Responsive front-end UI with Bootstrap 5
 | Database | MySQL (phpMyAdmin for testing) |
 | Tools | GitHub, PhpStorm, VS Code, GitLab |
 
+## Screenshots
+
+<img width="1439" height="778" alt="volunteer_dashboard" src="https://github.com/user-attachments/assets/4b8c9663-3b98-4714-902c-01158f89f409" />
+<img width="1438" height="775" alt="admin_dashboard" src="https://github.com/user-attachments/assets/fc4cbca2-a08a-41f3-9112-082525cd7bef" />
